@@ -15,7 +15,7 @@ A Software Quality Engineer with practical and theoretical knowledge of web and 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhirnoff&theme=dark)](https://git.io/streak-stats)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhirnoff&theme=github)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhirnoff&theme=github-light)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
