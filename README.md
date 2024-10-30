@@ -11,7 +11,7 @@ A Software Quality Engineer with practical and theoretical knowledge of web and 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ВАШ_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zhirnoff&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhirnoff&theme=dark)](https://git.io/streak-stats)
 
