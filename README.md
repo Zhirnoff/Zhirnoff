@@ -30,4 +30,4 @@ A Software Quality Engineer with practical and theoretical knowledge of web and 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Zhirnoff/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
-![Metrics](https://metrics.lecoq.io/ВАШ_USERNAME?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&posts=1&followup=1&lines=1&achievements=1&notable=1&activity=1)
+![Metrics](https://metrics.lecoq.io/Zhirnoff?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&posts=1&followup=1&lines=1&achievements=1&notable=1&activity=1)
