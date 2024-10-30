@@ -20,10 +20,10 @@ A Software Quality Engineer with practical and theoretical knowledge of web and 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <!-- Змейка из ваших коммитов -->
-![Snake animation](https://github.com/Zhirnoff/Zhirnoff/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zhirnoff/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Случайная шутка про программирование -->
 [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
 
 ![Metrics](https://metrics.lecoq.io/Zhirnoff?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ВАШ_USERNAME/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Zhirnoff/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
