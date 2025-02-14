@@ -6,4 +6,4 @@ A Software Quality Engineer with practical and theoretical knowledge of web and 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zhirnoff)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zhirnoff&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Случайная шутка про программирование -->
-[![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
+
