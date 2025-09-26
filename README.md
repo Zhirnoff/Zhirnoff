@@ -1,5 +1,5 @@
 # About Me
-Software Quality Engineer with practical and theoretical knowledge of web and desktop application testing.
+Software Quality Engineer
 
 ## GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhirnoff&show_icons=true&theme=transparent)
