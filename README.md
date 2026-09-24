@@ -13,7 +13,7 @@ I'm a Software Quality Engineer focused on test automation, thoughtful UX, and r
 
 ### Open-source work
 
-My contributions also include [Ketcher](https://github.com/epam/ketcher), a web-based molecule editor, and [Indigo](https://github.com/epam/Indigo), an open-source cheminformatics toolkit.
+I have also worked with [Ketcher](https://github.com/epam/ketcher), a web-based molecule editor, and [Indigo](https://github.com/epam/Indigo), an open-source cheminformatics toolkit.
 
 ---
 
